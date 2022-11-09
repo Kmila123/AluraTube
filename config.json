@@ -1,0 +1,76 @@
+{
+    "name": "Camila Belmiro ",
+    "job": "Estudante de Engenharia de Software e Potterhead ",
+    "gitHub": "Kmila123",
+    "playlists": {
+        "Teorias": [
+            {
+                "title": "VERDADEIRA ORIGEM DE AURELIUS DUMBLEDORE - ELE FOI CRIADO COM A PEDRA FILOSOFAL",
+                "url": "https://www.youtube.com/watch?v=_DE2FgnGSCo&list=PLuWS-NkhkVA9s8-h_buVmef7zlVofTQuW",
+                "thumb": "https://img.youtube.com/vi/_DE2FgnGSCo/sddefault.jpg"
+            },
+            {
+                "title": "ESSA É A MELHOR TEORIA DE HARRY POTTER!",
+                "url": "https://www.youtube.com/watch?v=dD1K_UlmQWY&list=PLuWS-NkhkVA9s8-h_buVmef7zlVofTQuW&index=4",
+                "thumb": "https://img.youtube.com/vi/dD1K_UlmQWY/sddefault.jpg"
+            },
+            {
+                "title": "ORIGEM DA MAGIA - PRIMEIRO BRUXO DO MUNDO",
+                "url": "https://www.youtube.com/watch?v=a-V7_OWv03A&list=PLuWS-NkhkVA9s8-h_buVmef7zlVofTQuW&index=12",
+                "thumb": "https://img.youtube.com/vi/a-V7_OWv03A/sddefault.jpg"
+            },
+            {
+                "title": "COMO SE CRIA UMA HORCRUX? (Repugnante)",
+                "url": "https://www.youtube.com/watch?v=LUQN9GiMbv8&list=PLuWS-NkhkVA9s8-h_buVmef7zlVofTQuW&index=15",
+                "thumb": "https://img.youtube.com/vi/LUQN9GiMbv8/sddefault.jpg"
+            },
+            {
+                "title": "A VARINHA DAS VARINHAS É FALSA!",
+                "url": "https://www.youtube.com/watch?v=H5wN3morP1w&list=PLuWS-NkhkVA9s8-h_buVmef7zlVofTQuW&index=21",
+                "thumb": "https://img.youtube.com/vi/H5wN3morP1w/sddefault.jpg"
+            },
+            {
+                "title": "MOODY VIU A VERDADEIRA FORMA DO BICHO-PAPÃO! COMO ELE É?",
+                "url": "https://www.youtube.com/watch?v=MkJ1vAFHYyc&list=PLuWS-NkhkVA9s8-h_buVmef7zlVofTQuW&index=23",
+                "thumb": "https://img.youtube.com/vi/MkJ1vAFHYyc/sddefault.jpg"
+            },
+            {
+                "title": "HARRY POTTER ERA A PRÓPRIA M0RTE",
+                "url": "https://www.youtube.com/watch?v=0YxfakKSvkk&list=PLuWS-NkhkVA9s8-h_buVmef7zlVofTQuW&index=74",
+                "thumb": "https://img.youtube.com/vi/0YxfakKSvkk/sddefault.jpg"
+            },
+            {
+                "title": "A ESPADA DE GRYFFINDOR PODERIA SER UMA HORCRUX?",
+                "url": "https://www.youtube.com/watch?v=IQUjimGtWPc&list=PLuWS-NkhkVA9s8-h_buVmef7zlVofTQuW&index=72",
+                "thumb": "https://img.youtube.com/vi/IQUjimGtWPc/sddefault.jpg"
+            }
+        ],
+        "Fatos e Curiosidades": [
+            {
+                "title": "40 FATOS SOBRE LUNA LOVEGOOD",
+                "url": "https://www.youtube.com/watch?v=DWnOwHxu0VQ&list=PLuWS-NkhkVA9KFFGNE5ACwPSC3atNgulO",
+                "thumb": "https://img.youtube.com/vi/DWnOwHxu0VQ/sddefault.jpg"
+            },
+            {
+                "title": "42 FATOS SOBRE RONY WEASLEY QUE VOCÊ NÃO SABIA!",
+                "url": "https://www.youtube.com/watch?v=9vF_mtBejiE&list=PLuWS-NkhkVA9KFFGNE5ACwPSC3atNgulO&index=2",
+                "thumb": "https://img.youtube.com/vi/9vF_mtBejiE/sddefault.jpg"
+            },
+            {
+                "title": "46 FATOS QUE VOCÊ NÃO SABIA SOBRE TIAGO POTTER",
+                "url": "https://www.youtube.com/watch?v=dME1zq4qwW4&list=PLuWS-NkhkVA9KFFGNE5ACwPSC3atNgulO&index=4",
+                "thumb": "https://img.youtube.com/vi/dME1zq4qwW4/sddefault.jpg"
+            },
+            {
+                "title": "43 FATOS SOBRE REMUS LUPIN QUE VOCÊ PROVAVELMENTE NÃO SABIA",
+                "url": "https://www.youtube.com/watch?v=lHl3hA3dxQM&list=PLuWS-NkhkVA9KFFGNE5ACwPSC3atNgulO&index=5",
+                "thumb": "https://img.youtube.com/vi/lHl3hA3dxQM/sddefault.jpg"
+            },
+            {
+                "title": "55 FATOS SOBRE FRED E JORGE QUE VOCÊ NÃO SABIA",
+                "url": "https://www.youtube.com/watch?v=auUDtGKnuH8&list=PLuWS-NkhkVA9KFFGNE5ACwPSC3atNgulO&index=6",
+                "thumb": "https://img.youtube.com/vi/auUDtGKnuH8/sddefault.jpg"
+            }
+        ]
+    }
+}
