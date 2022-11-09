@@ -6,11 +6,13 @@ import { StyledTimeline } from "../src/Timeline";
 
 
 
+
 function HomePage() {
     const estilosDaHomePage = {
         // backgroundColor: "red" 
     };
-
+    
+   
     // console.log(config.playlists);
 
     return (
@@ -22,7 +24,9 @@ function HomePage() {
                 flex: 1,
                 // backgroundColor: "red",
             }}>
+               
                 <Menu />
+                <Banner/>
                 <Header />
                 <Timeline playlists={config.playlists}>
                     Conteúdo
@@ -42,7 +46,19 @@ export default HomePage
 //     )
 // }
 
+const StyleBanner = styled.div`
+div{
+    width: 100%;
+    height: 400px;
+}
 
+  
+  img {
+    width: 100%;
+    height: 370px;
+    object-fit: fill;
+  }
+`;
 const StyledHeader = styled.div`
     img {
         width: 80px;
@@ -58,6 +74,17 @@ const StyledHeader = styled.div`
         gap: 16px;
     }
 `;
+function Banner() {
+    return (
+        <StyleBanner>
+              <section className="user-info2">
+           <div >
+                <img src={config.banner} />   
+            </div> 
+            </section>
+        </StyleBanner>
+    )
+}
 function Header() {
     return (
         <StyledHeader>
